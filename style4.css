@@ -43,3 +43,13 @@
     background-color: white;
     border-top: none;
 }
+#subscribe{
+    height: 300px;
+}
+
+#subscribe p{
+    color: gray;
+}
+#footer{
+    text-align: center;
+}
